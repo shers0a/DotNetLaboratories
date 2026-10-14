@@ -1,0 +1,14 @@
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/bin/Debug/net10.0/Lab2
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/bin/Debug/net10.0/Lab2.deps.json
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/bin/Debug/net10.0/Lab2.runtimeconfig.json
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/bin/Debug/net10.0/Lab2.dll
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/bin/Debug/net10.0/Lab2.pdb
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.AssemblyInfoInputs.cache
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.AssemblyInfo.cs
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.csproj.CoreCompileInputs.cache
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.dll
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/refint/Lab2.dll
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.pdb
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/Lab2.genruntimeconfig.cache
+/home/sher/Facultate/dotNet/RiderProjects/Lab2/Lab2/obj/Debug/net10.0/ref/Lab2.dll
