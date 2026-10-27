@@ -1,0 +1,11 @@
+@{
+    ViewData["Title"] = "Detalii eveniment";
+}
+
+<h2>@ViewBag.Event.Title</h2>
+
+<p>@ViewBag.Event.Description</p>
+
+<p><strong>Data:</strong> @ViewBag.Event.Date.ToString("dd.MM.yyyy")</p>
+
+<a href = "/Events/Index"> Inapoi la evenimente </a>
